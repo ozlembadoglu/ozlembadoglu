@@ -64,7 +64,7 @@ I have a keen eye for design and a passion for data-driven insights. I enjoy com
     </td>
     </td>
     <td align="center" width="140">
-      <img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud.png" alt="Adobe Creative Cloud"/><br/><strong>Adobe Creative Cloud</strong>
+      <img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud.png" alt="Adobe Creative Cloud"/><br/><strong>Adobe</strong>
     </td>
   </tr>
 </table>
