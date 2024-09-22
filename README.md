@@ -1,7 +1,7 @@
 <!-- Profil Üst Bilgi -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b5d4f998-1e8e-459f-a10e-bb545e5f4517" alt="Profile Banner" width="100%" height="300px"/>
+  <img src="https://github.com/user-attachments/assets/b5d4f998-1e8e-459f-a10e-bb545e5f4517" alt="Profile Banner" width="100%" height="250px"/>
 </div>
 
 <h1 align="center">Hello! I'm <strong>Özlem</strong> 👋</h1>
