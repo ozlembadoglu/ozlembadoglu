@@ -81,24 +81,6 @@ I have a keen eye for design and a passion for data-driven insights. I enjoy com
 - **📖 Description:** *Preparation of a comprehensive dashboard including order, product and customer analysis and RFM analysis using SQL, Python and Power BI on Northwind Traders data, effective insights and strategies for data-driven decisions.*
 
 
-
-### 2. Project Title 2
-- 🔗 [GitHub Repository](https://github.com/ozlembadoglu/data_analysis_northwind_project)
-- 📖 Description: 
-
-<div align="center">
-  <img src="https://yourimageurl.com/project2.png" alt="Project 2" width="60%" />
-</div>
-
-### 3. Project Title 3
-- 🔗 [GitHub Repository](https://github.com/kullaniciadi/project3)
-- 🔍 [Live Demo](https://yourlivedemo.com/project3)
-- 📖 Description: A machine learning model that predicts customer churn with a 90% accuracy rate. It uses various classification techniques to identify key factors affecting churn.
-
-<div align="center">
-  <img src="https://yourimageurl.com/project3.png" alt="Project 3" width="60%" />
-</div>
-
 <!-- GitHub İstatistikleri -->
 ## GitHub Stats 📈
 <div align="center">
