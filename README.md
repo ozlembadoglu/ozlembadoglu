@@ -72,19 +72,17 @@ I have a keen eye for design and a passion for data-driven insights. I enjoy com
 <!-- Projelerim Bölümü -->
 ## My Projects 💻
 
-### 1. Project Title 1
-- 🔗 [GitHub Repository](https://github.com/kullaniciadi/project1)
-- 🔍 [Live Demo](https://yourlivedemo.com/project1)
-- 📖 Description: A web application that provides real-time data analytics and visualization. It helps users to track and analyze their data effortlessly.
+### 1. Northwind Traders Order, Product, Customer and Logistics Analysis and RFM Analysis Dashboard Study
+- 🔗 [GitHub Repository](https://github.com/ozlembadoglu/data_analysis_northwind_project)
+- 📖 Description: Preparation of a comprehensive dashboard including order, product and customer analysis and RFM analysis using SQL, Python and Power BI on Northwind Traders data, effective insights and strategies for data-driven decisions.
 
 <div align="center">
   <img src="https://yourimageurl.com/project1.png" alt="Project 1" width="60%" />
 </div>
 
 ### 2. Project Title 2
-- 🔗 [GitHub Repository](https://github.com/kullaniciadi/project2)
-- 🔍 [Live Demo](https://yourlivedemo.com/project2)
-- 📖 Description: An interactive dashboard that visualizes business data using advanced DAX formulas and Power BI features.
+- 🔗 [GitHub Repository](https://github.com/ozlembadoglu/data_analysis_northwind_project)
+- 📖 Description: 
 
 <div align="center">
   <img src="https://yourimageurl.com/project2.png" alt="Project 2" width="60%" />
