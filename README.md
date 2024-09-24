@@ -81,6 +81,17 @@ I have a keen eye for design and a passion for data-driven insights. I enjoy com
 - **📖 Description:** *Preparation of a comprehensive dashboard including order, product and customer analysis and RFM analysis using SQL, Python and Power BI on Northwind Traders data, effective insights and strategies for data-driven decisions.*
 
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a407a486-9028-4f72-90af-7754ffc90944" alt="Project 1" width="17%" />
+</div>
+
+### 1. Nobel Prizes EDA
+- **🔗 [GitHub Repository](https://github.com/ozlembadoglu/nobel_prizes)**
+- **📖 Description:** *In this project, we will examine the Nobel Prize winners.*
+
+
+
 <!-- GitHub İstatistikleri -->
 ## GitHub Stats 📈
 <div align="center">
